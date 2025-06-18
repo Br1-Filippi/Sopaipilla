@@ -1,7 +1,5 @@
 # 🍪 Proyecto Sopaipilla
 
-Un sistema web construido con Laravel para gestionar funcionalidades específicas de [nombre del proyecto o propósito, si aplica].
-
 ---
 
 ## 📋 Requisitos
